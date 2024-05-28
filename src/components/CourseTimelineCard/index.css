@@ -1,0 +1,30 @@
+.heading-con {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+  color: #171f46;
+}
+
+.duration-con {
+  display: flex;
+  align-items: center;
+  width: 60px;
+}
+
+.list-con {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag {
+  background-color: #e5e5e5;
+  color: #1e293b;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 10px;
+  margin: 10px;
+}

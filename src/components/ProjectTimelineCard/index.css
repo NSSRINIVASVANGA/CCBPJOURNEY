@@ -1,0 +1,20 @@
+.card {
+  font-family: 'Roboto';
+}
+
+.image {
+  width: 100%;
+}
+
+.link {
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #0967d2;
+}
+
+.desc{
+  color: #1e293b;
+  font-family: "Roboto";
+  font-weight: 500;
+}
